@@ -1,0 +1,3 @@
+# blogDocs
+
+> An awesome project.
